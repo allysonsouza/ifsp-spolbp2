@@ -1,4 +1,4 @@
-# Programação Dinâmica para Web
+# Laboratório de Programação 2
 
 <table style="width: 100%;">
     <tbody>
@@ -11,8 +11,8 @@
             <th scope="col">Professores</th>
         </tr>
         <tr>
-            <td>Tecnólogo em Desenvolvimento de Sistemas</td>
-            <td>SPOPWEB</td>
+            <td>Técnico Integrado em Desenvolvimento de Sistemas</td>
+            <td>SPOLBP2</td>
             <td><a href="https://allysonsouza.com.br/" target="_blank" rel="noopener noreferrer">Allyson Souza</a></td>
         </tr>
     </tbody>
