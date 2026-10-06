@@ -25,8 +25,10 @@ Implemente um método construtor para as classes, mapeando quais parâmetros dev
 
 ### Menu
 
-Apresente um menu de opções para que o usuário escolha cadastrar a) livro; b) editora; c) autor;
-O menu deve ser exibido até que o usuário digite "sair".
-
-Após cadastrar um novo item, o mesmo deve ser exibido no console, com todos os seus atributos.
-
+1. Apresente um menu de opções para que o usuário escolha cadastrar:
+    - a) livro
+    - b) editora
+    - c) autor
+2. O menu deve ser exibido até que o usuário digite "sair".
+3. Após cadastrar um novo item, o mesmo deve ser exibido no console, com todos os seus atributos.
+4. Os objetos não precisam ficar armazenados
