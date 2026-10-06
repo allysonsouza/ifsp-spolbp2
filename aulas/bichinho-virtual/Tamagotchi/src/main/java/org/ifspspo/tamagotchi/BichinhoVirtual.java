@@ -22,3 +22,4 @@ public class BichinhoVirtual {
         System.out.println(this.idade);
     }
 }
+}
